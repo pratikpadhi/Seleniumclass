@@ -1,0 +1,4 @@
+2020-05-29 17:21:13,530 [main] INFO demo.log - This is info
+2020-05-29 17:21:13,533 [main] WARN demo.log - This is warning
+2020-05-29 17:23:28,846 [main] INFO demo.log - This is info
+2020-05-29 17:23:28,846 [main] WARN demo.log - This is warning
