@@ -12,7 +12,7 @@ import org.openqa.selenium.support.ui.Select;
 public class testu {
 
 	public static void main(String[] args) throws InterruptedException {
-System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
+ System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
         
 		WebDriver driver=new ChromeDriver();
 		driver.manage().window().maximize();
